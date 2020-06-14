@@ -52,3 +52,10 @@ body {
 	color: white;
 	background-color: rgb(150, 150, 150);
 }
+
+/* Container for content */
+.container {
+	width: 90%;
+	max-width: 900px;
+	margin: 0 auto;
+}
