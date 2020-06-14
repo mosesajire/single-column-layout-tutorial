@@ -107,3 +107,10 @@ body {
 	margin: 0;
 	border-bottom: 1px solid rgb(225, 225, 225);
 }
+
+/* Styling the footer section */
+.footer {
+	background-color: rgb(240, 240, 240);
+	text-align: center;
+	padding: 5px 0;
+}
