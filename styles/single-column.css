@@ -93,3 +93,17 @@ body {
 	background-color: rgb(50, 50, 200);
 	color: rgb(255, 255, 255);
 }
+
+/* Styling the row for contents */
+.row {
+	margin: 30px 0;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+	border-radius: 5px;
+	padding: 10px 15px;
+}
+
+.row h2 {
+	font-size: 30px;
+	margin: 0;
+	border-bottom: 1px solid rgb(225, 225, 225);
+}
