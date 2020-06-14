@@ -1,0 +1,13 @@
+/* CSS rules for styling whole content */
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	font-size: 16px;
+	font-family: helvetica, verdana, san-serif;
+	line-height: 1.6;
+	background-color: rgb(255, 255, 255);
+	color: rgb(80, 80, 80);
+}
