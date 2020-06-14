@@ -59,3 +59,37 @@ body {
 	max-width: 900px;
 	margin: 0 auto;
 }
+
+/* Styling the banner section */
+.banner {
+	background-image: linear-gradient(rgba(250, 250, 250, 0.7), rgba(250, 250, 250, 0.7) ), url('../images/banner.jpg');
+	background-size: cover;
+	background-position: center;
+	background-color: rgb(245, 245, 245);
+	padding: 20px 0;
+	text-align: center;
+}
+
+.banner-heading {
+	font-size: 36px;
+}
+
+.banner-text {
+	font-size: 26px;
+	font-weight: lighter;
+}
+
+.banner-link {
+	padding: 5px 16px;
+	background-color: white;
+	border-radius: 5px;
+	text-decoration: none;
+	color: rgb(50, 50, 200);
+	border: 1px solid rgb(50, 50, 200);
+	font-size: 28px;
+}
+
+.banner-link:hover, .banner-link:active, .banner-link:focus {
+	background-color: rgb(50, 50, 200);
+	color: rgb(255, 255, 255);
+}
